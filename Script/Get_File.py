@@ -5,9 +5,14 @@ import time
 import requests
 
 RULE_URL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/"
+RULE_URL1 = "https://raw.githubusercontent.com/RuCu6/QuanX/main/"
+RULE_URL2 = "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/"
+RULE_URL3 = "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/"
 REJECT_RULES = {
-    "Advertising": RULE_URL + "Advertising/Advertising.list",
-    "Privacy": RULE_URL + "Privacy/Privacy.list"
+    "MyBlockAds": RULE_URL1 + "Rules/MyBlockAds.list",
+    "anti-AD": RULE_URL2 + "master/anti-ad-quanx.txt",
+    "BlockHttpDNS": RULE_URL+"BlockHttpDNS/BlockHttpDNS.list",
+    "fenliu": RULE_URL + "filter/fenliu.list"
 }
 PROXY_RULES = {
     "GlobalMedia": RULE_URL + "GlobalMedia/GlobalMedia.list",

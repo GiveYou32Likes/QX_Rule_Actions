@@ -11,7 +11,6 @@
 ## 注意
 1. 合并规则中包含的规则均在文件夹中显示，对于QuantumultX这个软件而言，在ui界面添加规则是有自上而下的优先级的，所以推荐这个三个规则放在底部。
 2. 如果对单个分流有特殊的要求，可以到[QuantumultX](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)中找到对应的规则单独处理。
-3. 合并时没有对策略偏好进行处理，所以要开启策略偏好并自行选择对应的策略。
 
 ## 鸣谢
 (排名不分先后)
@@ -21,4 +20,9 @@
 @[Trovoy](https://github.com/Trovoy)
 
 @[Code-Dramatist](https://github.com/Code-Dramatist)
+
+@[RuCu6](https://github.com/RuCu6)
+
+@[fmz200](https://github.com/fmz200)
+
 
