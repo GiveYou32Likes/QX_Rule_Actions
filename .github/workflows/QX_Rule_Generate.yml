@@ -42,7 +42,7 @@ jobs:
       - name: Commit files
         run: |
           git config --local user.email "123@gmail.com"
-          git config --local user.name "GiveYou32Likes"
+          git config --local user.name "Gene"
           git add ./*
           git commit -m "Update Rules" -a
       - name: Push changes
