@@ -19,6 +19,6 @@
 
 @[Trovoy](https://github.com/Trovoy)
 
-@[Code-Dramatist]((https://github.com/Code-Dramatist
-))
+@[Code-Dramatist](https://github.com/Code-Dramatist
+)
 
