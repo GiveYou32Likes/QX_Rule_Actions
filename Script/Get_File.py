@@ -7,16 +7,16 @@ import requests
 RULE_URL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/"
 REJECT_RULES = {
     "Advertising": RULE_URL + "Advertising/Advertising.list",
-    "Privacy": RULE_URL + "Privacy/Privacy.list",
+    "Privacy": RULE_URL + "Privacy/Privacy.list"
 }
 PROXY_RULES = {
     "GlobalMedia": RULE_URL + "GlobalMedia/GlobalMedia.list",
     "Global": RULE_URL + "Global/Global.list",
-    "Proxy": RULE_URL + "Proxy/Proxy.list",
+    "Proxy": RULE_URL + "Proxy/Proxy.list"
 }
 DIRECT_RULES = {
     "ChinaMax": RULE_URL + "ChinaMax/ChinaMax.list",
-    "Lan": RULE_URL + "Lan/Lan.list",
+    "Lan": RULE_URL + "Lan/Lan.list"
 }
 
 HEADER = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'}
