@@ -17,7 +17,7 @@ def merge_and_deduplicate_files(path):
             file_path = os.path.join(path, file_name)
             if os.path.isfile(file_path):
                 with open(file_path, 'r', encoding='utf8') as in_f:
-                    lines = [line.strip() for line in in_f.readlines() if not line.startswith("#")]
+                    lines = [line.strip().replace('Advertising', 'reject').replace('Privacy', 'reject').replace('ChinaMax', 'direct').replace('GlobalMedia', 'proxy').replace('Global', 'proxy') for line in in_f.readlines() if not line.startswith("#")]
                     data_set.update(lines)
         data_list = sorted(data_set)
         out_f.writelines(line + '\n' for line in data_list if line.strip())
@@ -31,7 +31,6 @@ if __name__ == '__main__':
             os.makedirs(path)
             print(f"创建目录 {path} 成功")
 
-        # 合并文件并去重
         output_file_path = merge_and_deduplicate_files(path)
 
         print(f"{os.path.basename(output_file_path)} 文件创建成功")
