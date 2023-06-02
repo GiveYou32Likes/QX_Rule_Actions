@@ -1,85 +1,39 @@
-;HOST, hub5btmain.v6.shub.sandai.net, reject
-;HOST, hub5emu.v6.shub.sandai.net, reject
-;HOST, hub5idx.v6.shub.sandai.net, reject
-HOST, aaid.uyunad.com, reject
-HOST, acdn.adnxs.com, reject
-HOST, ad.tencentmusic.com, reject
-HOST, ad.zijieapi.com, reject
-HOST, ads.95516.com, reject
-HOST, adservice.google.com, reject
-HOST, adstrategy.biz.weibo.com, reject
-HOST, adui.tg.meitu.com, reject
-HOST, afd.baidu.com, reject
-HOST, afdconf.baidu.com, reject
-HOST, amap-aos-info-nogw.amap.com, reject
-HOST, api-adservices.apple.com, reject
-HOST, api.helloclue.com, reject
-HOST, api.zuihuimai.com, reject
-HOST, appcloud.zhihu.com, reject
-HOST, appcloud2.in.zhihu.com, reject
-HOST, awaken.amap.com, reject
-HOST, brahe.apptimize.com, reject
-HOST, bravetense.com, reject
-HOST, cm-10-138.getui.com, reject
-HOST, collector.clue.run, reject
-HOST, crash2.zhihu.com, reject
-HOST, data.flurry.com, reject
-HOST, free-aos-cdn-image.amap.com, reject
-HOST, furiousfar.com, reject
-HOST, g.koowo.com, reject
-HOST, gdt.qq.com, reject
-HOST, googleads.g.doubleclick-cn.net, reject
-HOST, googleads.g.doubleclick.net, reject
-HOST, httpdns.baidubce.com, reject
-HOST, httpdns.n.netease.com, reject
-HOST, iadmat.nosdn.127.net, reject
-HOST, iadmusicmat.music.126.net, reject
-HOST, iadmusicmatvideo.music.126.net, reject
-HOST, images.ctfassets.net, reject
-HOST, is.snssdk.com, reject
-HOST, kadmimage.biz.weibo.com, reject
-HOST, lc.map.baidu.com, reject
-HOST, lookup.api.bsb.baidu.com, reject
-HOST, mall.bilibili.com, reject
-HOST, mapi.apptimize.com, reject
-HOST, md-i-s.apptimize.com, reject
-HOST, mediation.adnxs.com, reject
-HOST, mi.gdt.qq.com, reject
-HOST, mobilead.kuwo.cn, reject
-HOST, mqtt.zhihu.com, reject
-HOST, o33249.ingest.sentry.io, reject
-HOST, open.e.kuaishou.com, reject
-HOST, pagead2.googlesyndication.com, reject
-HOST, pageviewp.icbc.com.cn, reject
-HOST, passport.bilibili.com, reject
-HOST, proxy.safebrowsing.apple, reject
-HOST, pubads.g.doubleclick.net, reject
-HOST, rich.kuwo.cn, reject
-HOST, safebrowsing.g.applimg.com, reject
-HOST, safebrowsing.googleapis.com, reject
-HOST, safebrowsing.urlsec.qq.com, reject
-HOST, sdk-conf.getui.com, reject
-HOST, sdk.open.talk.getui.net, reject
-HOST, sdkaction.biz.weibo.com, reject
-HOST, sdkclick.biz.weibo.com, reject
-HOST, sdkconfig.ad.xiaomi.com, reject
-HOST, sdkmonitor.biz.weibo.com, reject
-HOST, sin3-ib.adnxs.com, reject
-HOST, statics.woozooo.com, reject
-HOST, sugar.zhihu.com, reject
-HOST, swallowcrockerybless.com, reject
-HOST, switch.cup.com.cn, reject
-HOST, tmead.y.qq.com, reject
-HOST, tmeadcomm.y.qq.com, reject
-HOST, token.safebrowsing.apple, reject
-HOST, tpns.qq.com, reject
-HOST, tysdk.95516.com, reject
-HOST, vs6.bj2ct.u3.ucweb.com, reject
-HOST, www.googleadservices.com, reject
+;HOST,hub5btmain.v6.shub.sandai.net,reject
+;HOST,hub5emu.v6.shub.sandai.net,reject
+;HOST,hub5idx.v6.shub.sandai.net,reject
+HOST,aaid.uyunad.com,reject
+HOST,acdn.adnxs.com,reject
+HOST,ad.tencentmusic.com,reject
+HOST,ad.zijieapi.com,reject
+HOST,ads.95516.com,reject
+HOST,adservice.google.com,reject
+HOST,adstrategy.biz.weibo.com,reject
+HOST,adui.tg.meitu.com,reject
+HOST,afd.baidu.com,reject
+HOST,afdconf.baidu.com,reject
+HOST,amap-aos-info-nogw.amap.com,reject
+HOST,api-adservices.apple.com,reject
+HOST,api.helloclue.com,reject
+HOST,api.zuihuimai.com,reject
+HOST,appcloud.zhihu.com,reject
+HOST,appcloud2.in.zhihu.com,reject
+HOST,awaken.amap.com,reject
+HOST,brahe.apptimize.com,reject
+HOST,bravetense.com,reject
+HOST,cm-10-138.getui.com,reject
+HOST,collector.clue.run,reject
+HOST,crash2.zhihu.com,reject
+HOST,data.flurry.com,reject
 HOST,dns.jd.com,reject
 HOST,dns.weibo.cn,reject
 HOST,dns.weixin.qq.com,reject
 HOST,dns.weixin.qq.com.cn,reject
+HOST,free-aos-cdn-image.amap.com,reject
+HOST,furiousfar.com,reject
+HOST,g.koowo.com,reject
+HOST,gdt.qq.com,reject
+HOST,googleads.g.doubleclick-cn.net,reject
+HOST,googleads.g.doubleclick.net,reject
 HOST,httpdns-api.aliyuncs.com,reject
 HOST,httpdns-sc.aliyuncs.com,reject
 HOST,httpdns.alicdn.com,reject
@@ -91,29 +45,73 @@ HOST,httpdns.n.netease.com,reject
 HOST,httpdns.push.oppomobile.com,reject
 HOST,httpdns.volcengineapi.com,reject
 HOST,httpsdns.baidu.com,reject
+HOST,iadmat.nosdn.127.net,reject
+HOST,iadmusicmat.music.126.net,reject
+HOST,iadmusicmatvideo.music.126.net,reject
+HOST,images.ctfassets.net,reject
+HOST,is.snssdk.com,reject
+HOST,kadmimage.biz.weibo.com,reject
+HOST,lc.map.baidu.com,reject
 HOST,lofter.httpdns.c.163.com,reject
+HOST,lookup.api.bsb.baidu.com,reject
+HOST,mall.bilibili.com,reject
+HOST,mapi.apptimize.com,reject
+HOST,md-i-s.apptimize.com,reject
+HOST,mediation.adnxs.com,reject
+HOST,mi.gdt.qq.com,reject
+HOST,mobilead.kuwo.cn,reject
+HOST,mqtt.zhihu.com,reject
 HOST,music.httpdns.c.163.com,reject
-HOST-KEYWORD, -ad-sign.byteimg.com, reject
-HOST-KEYWORD, adservice.google.com., reject
-HOST-SUFFIX, 163jiasu.com, reject
-HOST-SUFFIX, iadsdk.apple.com, reject
-HOST-SUFFIX, pangolin-sdk-toutiao-b.com, reject
-HOST-SUFFIX, pangolin-sdk-toutiao.com, reject
-HOST-SUFFIX, pos.baidu.com, reject
-HOST-SUFFIX, safebrowsing.apple, reject
-HOST-SUFFIX, shuzilm.cn, reject
-HOST-SUFFIX, u3.ucweb.com, reject
-IP-CIDR, 103.41.167.237/32, reject
-IP-CIDR, 118.89.204.198/32, reject
-IP-CIDR, 180.76.76.200/32, reject
-IP-CIDR, 203.107.1.1/24, reject
+HOST,o33249.ingest.sentry.io,reject
+HOST,open.e.kuaishou.com,reject
+HOST,pagead2.googlesyndication.com,reject
+HOST,pageviewp.icbc.com.cn,reject
+HOST,passport.bilibili.com,reject
+HOST,proxy.safebrowsing.apple,reject
+HOST,pubads.g.doubleclick.net,reject
+HOST,rich.kuwo.cn,reject
+HOST,safebrowsing.g.applimg.com,reject
+HOST,safebrowsing.googleapis.com,reject
+HOST,safebrowsing.urlsec.qq.com,reject
+HOST,sdk-conf.getui.com,reject
+HOST,sdk.open.talk.getui.net,reject
+HOST,sdkaction.biz.weibo.com,reject
+HOST,sdkclick.biz.weibo.com,reject
+HOST,sdkconfig.ad.xiaomi.com,reject
+HOST,sdkmonitor.biz.weibo.com,reject
+HOST,sin3-ib.adnxs.com,reject
+HOST,statics.woozooo.com,reject
+HOST,sugar.zhihu.com,reject
+HOST,swallowcrockerybless.com,reject
+HOST,switch.cup.com.cn,reject
+HOST,tmead.y.qq.com,reject
+HOST,tmeadcomm.y.qq.com,reject
+HOST,token.safebrowsing.apple,reject
+HOST,tpns.qq.com,reject
+HOST,tysdk.95516.com,reject
+HOST,vs6.bj2ct.u3.ucweb.com,reject
+HOST,www.googleadservices.com,reject
+HOST-KEYWORD,-ad-sign.byteimg.com,reject
+HOST-KEYWORD,adservice.google.com.,reject
+HOST-SUFFIX,163jiasu.com,reject
+HOST-SUFFIX,iadsdk.apple.com,reject
+HOST-SUFFIX,pangolin-sdk-toutiao-b.com,reject
+HOST-SUFFIX,pangolin-sdk-toutiao.com,reject
+HOST-SUFFIX,pos.baidu.com,reject
+HOST-SUFFIX,safebrowsing.apple,reject
+HOST-SUFFIX,shuzilm.cn,reject
+HOST-SUFFIX,u3.ucweb.com,reject
 IP-CIDR,101.124.19.122/32,reject
 IP-CIDR,103.224.222.208/32,reject
+IP-CIDR,103.41.167.237/32,reject
 IP-CIDR,115.236.121.195/32,reject
 IP-CIDR,115.236.121.51/32,reject
+IP-CIDR,118.89.204.198/32,reject
 IP-CIDR,123.151.54.50/32,reject
+IP-CIDR,180.76.76.200/32,reject
 IP-CIDR,186.76.76.200/32,reject
 IP-CIDR,203.107.1.0/24,reject
+IP-CIDR,203.107.1.1/24,reject
 IP-CIDR,39.97.128.148/32,reject
 IP-CIDR,39.97.130.51/32,reject
 IP-CIDR,42.187.182.106/32,reject
@@ -122,7 +120,6 @@ IP-CIDR,42.187.184.154/32,reject
 IP-CIDR,42.81.232.18/32,reject
 IP-CIDR,59.111.239.61/32,reject
 IP-CIDR,59.111.239.62/32,reject
-IP6-CIDR, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128, reject
 IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,reject
 IP6-CIDR,2402:4e00:1900:1700:0:9554:1ad9:c3a/128,reject
 IP6-CIDR,2402:db40:5100:1011::5/128,reject
