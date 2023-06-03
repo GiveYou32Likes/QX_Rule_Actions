@@ -12,7 +12,7 @@ REJECT_RULES = {
     "MyBlockAds": RULE_URL1 + "Rules/MyBlockAds.list",
     "anti-AD": RULE_URL2 + "master/anti-ad-quanx.txt",
     "BlockHttpDNS": RULE_URL+"BlockHttpDNS/BlockHttpDNS.list",
-    "fenliu": RULE_URL + "filter/fenliu.list"
+    "fenliu": RULE_URL3 + "filter/fenliu.list"
 }
 PROXY_RULES = {
     "GlobalMedia": RULE_URL + "GlobalMedia/GlobalMedia.list",
