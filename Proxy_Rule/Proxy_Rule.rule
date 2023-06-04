@@ -5517,6 +5517,7 @@ host-suffix,disney.in,proxy
 host-suffix,disney.io,proxy
 host-suffix,disney.it,proxy
 host-suffix,disney.my,proxy
+host-suffix,disney.my.sentry.io,proxy
 host-suffix,disney.nl,proxy
 host-suffix,disney.no,proxy
 host-suffix,disney.ph,proxy
@@ -15920,6 +15921,7 @@ host-suffix,searchtruth.com,proxy
 host-suffix,searx.me,proxy
 host-suffix,seatguru.com,proxy
 host-suffix,seattlefdc.com,proxy
+host-suffix,seattlespheres.com,proxy
 host-suffix,secomtrust.net,proxy
 host-suffix,secret-flirt-hub.com,proxy
 host-suffix,secretchina.com,proxy
@@ -15966,7 +15968,6 @@ host-suffix,sensorynetworks.com,proxy
 host-suffix,sensualgirls.org,proxy
 host-suffix,sensualmothers.com,proxy
 host-suffix,sensueel.net,proxy
-host-suffix,sentry.io,proxy
 host-suffix,senzuritv.net,proxy
 host-suffix,seqing.one,proxy
 host-suffix,seqingwangzhan.pro,proxy
