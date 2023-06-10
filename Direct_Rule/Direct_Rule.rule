@@ -72981,7 +72981,7 @@ ip-cidr,204.178.71.0/24,direct
 ip-cidr,204.55.160.0/24,direct
 ip-cidr,204.74.101.0/24,direct
 ip-cidr,204.74.109.0/24,direct
-ip-cidr,204.74.110.0/23,direct
+ip-cidr,204.74.110.0/24,direct
 ip-cidr,204.74.113.0/24,direct
 ip-cidr,204.74.114.0/23,direct
 ip-cidr,204.74.67.0/24,direct
