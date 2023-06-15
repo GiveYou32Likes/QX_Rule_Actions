@@ -183,7 +183,6 @@ host-keyword,officecdn,direct
 host-keyword,qiyi,direct
 host-keyword,taobao,direct
 host-keyword,weibo,direct
-host-suffix,0-100.com,direct
 host-suffix,0-6.com,direct
 host-suffix,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,direct
 host-suffix,0.in-addr.arpa,direct
@@ -5044,7 +5043,6 @@ host-suffix,59.com,direct
 host-suffix,5906333.com,direct
 host-suffix,590m.com,direct
 host-suffix,59120.com,direct
-host-suffix,591234x.com,direct
 host-suffix,59168.net,direct
 host-suffix,59178.com,direct
 host-suffix,5918dyw.com,direct
@@ -8752,7 +8750,6 @@ host-suffix,ampmake.com,direct
 host-suffix,ampxl.com,direct
 host-suffix,ams-ic.com,direct
 host-suffix,ams.org,direct
-host-suffix,amsjsy.com,direct
 host-suffix,amsoveasea.com,direct
 host-suffix,amssro.net,direct
 host-suffix,amtron-ic.com,direct
@@ -10264,7 +10261,6 @@ host-suffix,bao12333.com,direct
 host-suffix,bao21.com,direct
 host-suffix,bao315.com,direct
 host-suffix,bao369.com,direct
-host-suffix,baobabnet.com,direct
 host-suffix,baobao.com,direct
 host-suffix,baobao001.com,direct
 host-suffix,baobao88.com,direct
@@ -12980,7 +12976,6 @@ host-suffix,casece.org,direct
 host-suffix,cashtoutiao.com,direct
 host-suffix,cashwaytech.com,direct
 host-suffix,casic-addsino.com,direct
-host-suffix,casic-amc.com,direct
 host-suffix,casic-t.com,direct
 host-suffix,casic.com,direct
 host-suffix,casic304.com,direct
@@ -13987,7 +13982,6 @@ host-suffix,chaojibiaoge.com,direct
 host-suffix,chaojifan.com,direct
 host-suffix,chaojifangyu.com,direct
 host-suffix,chaojihetong.com,direct
-host-suffix,chaojishipin.com,direct
 host-suffix,chaojituzi.net,direct
 host-suffix,chaojixiaobaicai.club,direct
 host-suffix,chaojiying.com,direct
@@ -15050,6 +15044,7 @@ host-suffix,chishoes.com,direct
 host-suffix,chitanda.me,direct
 host-suffix,chitu.com,direct
 host-suffix,chitu107.com,direct
+host-suffix,chitus.com,direct
 host-suffix,chivast.com,direct
 host-suffix,chivox.com,direct
 host-suffix,chivoxapp.com,direct
@@ -17388,6 +17383,7 @@ host-suffix,ct-cdm.com,direct
 host-suffix,ct-laser.com,direct
 host-suffix,ct10000.com,direct
 host-suffix,ct108.com,direct
+host-suffix,ct52.com,direct
 host-suffix,ct597.com,direct
 host-suffix,ctaca.com,direct
 host-suffix,ctags.net,direct
@@ -20366,7 +20362,6 @@ host-suffix,dxszx.com,direct
 host-suffix,dxton.com,direct
 host-suffix,dxwei.com,direct
 host-suffix,dxxnews.com,direct
-host-suffix,dxxps.com,direct
 host-suffix,dxxxfl.com,direct
 host-suffix,dxy.com,direct
 host-suffix,dxy.me,direct
@@ -26166,7 +26161,6 @@ host-suffix,halobear.com,direct
 host-suffix,halomobi.com,direct
 host-suffix,haluan2u.com,direct
 host-suffix,haluoha.com,direct
-host-suffix,hambut.com,direct
 host-suffix,hamir.net,direct
 host-suffix,hamreus.com,direct
 host-suffix,han-ju.cc,direct
@@ -26267,6 +26261,7 @@ host-suffix,hanyi.studio,direct
 host-suffix,hanyou.com,direct
 host-suffix,hanyougame.com,direct
 host-suffix,hanyouwang.com,direct
+host-suffix,hanyu.life,direct
 host-suffix,hanyucar.com,direct
 host-suffix,hanyurumen.com,direct
 host-suffix,hanzhifeng.com,direct
@@ -29766,6 +29761,7 @@ host-suffix,iblue.me,direct
 host-suffix,ibluefrog.com,direct
 host-suffix,ibluesocial.com,direct
 host-suffix,ibmcampus.com,direct
+host-suffix,ibmfwqdl.com,direct
 host-suffix,ibmhz.com,direct
 host-suffix,ibmwclub.com,direct
 host-suffix,ibook8.com,direct
@@ -31373,7 +31369,6 @@ host-suffix,istudyinchina.org,direct
 host-suffix,istylepdf.com,direct
 host-suffix,isudaji.com,direct
 host-suffix,isuike.com,direct
-host-suffix,isumiao.com,direct
 host-suffix,isummi.com,direct
 host-suffix,isun.org,direct
 host-suffix,isuzhou.me,direct
@@ -36188,6 +36183,7 @@ host-suffix,laohutao.com,direct
 host-suffix,laohuyun.com,direct
 host-suffix,laojilu.com,direct
 host-suffix,laojiuxitong.com,direct
+host-suffix,laojuhui.com,direct
 host-suffix,laoke.com,direct
 host-suffix,laolai.com,direct
 host-suffix,laoliang.net,direct
@@ -40667,7 +40663,6 @@ host-suffix,mr77.com,direct
 host-suffix,mr91.com,direct
 host-suffix,mrabit.com,direct
 host-suffix,mrbanana.com,direct
-host-suffix,mrbluyee.com,direct
 host-suffix,mrcjcn.com,direct
 host-suffix,mrcrm.com,direct
 host-suffix,mrcywang.com,direct
@@ -42447,6 +42442,7 @@ host-suffix,nxw.so,direct
 host-suffix,nxyqs.com,direct
 host-suffix,ny-yy.com,direct
 host-suffix,ny83.com,direct
+host-suffix,nya.ink,direct
 host-suffix,nyaacat.com,direct
 host-suffix,nyasama.com,direct
 host-suffix,nyato.com,direct
@@ -46921,7 +46917,6 @@ host-suffix,repianimg.com,direct
 host-suffix,replays.net,direct
 host-suffix,replicated.cc,direct
 host-suffix,reqgvheo.com,direct
-host-suffix,rerevod.com,direct
 host-suffix,resccske.cyou,direct
 host-suffix,resheji.com,direct
 host-suffix,resistor.today,direct
@@ -49928,7 +49923,6 @@ host-suffix,siswin.com,direct
 host-suffix,site-digger.com,direct
 host-suffix,siteapp-static.com,direct
 host-suffix,sitekc.com,direct
-host-suffix,sites120.com,direct
 host-suffix,sithc.com,direct
 host-suffix,sitiaoyu.com,direct
 host-suffix,sitongedu.org,direct
@@ -58836,7 +58830,6 @@ host-suffix,www-4620.com,direct
 host-suffix,www-63608.com,direct
 host-suffix,www-hangzhou-aliyun.com,direct
 host-suffix,www.adobe.com,direct
-host-suffix,www.agoda.com,direct
 host-suffix,www.akamai.com,direct
 host-suffix,www.analog.com,direct
 host-suffix,www.cc,direct
@@ -59420,7 +59413,6 @@ host-suffix,xfhx.com,direct
 host-suffix,xfinfr.com,direct
 host-suffix,xfisp.com,direct
 host-suffix,xfjw.net,direct
-host-suffix,xfkou.com,direct
 host-suffix,xfliusheng.com,direct
 host-suffix,xfn.xyz,direct
 host-suffix,xfnano.com,direct
@@ -66141,7 +66133,6 @@ host-suffix,zhuoqun.info,direct
 host-suffix,zhuoshigroup.com,direct
 host-suffix,zhuoshixiong.com,direct
 host-suffix,zhuotingwl.com,direct
-host-suffix,zhuotujiaoyu.com,direct
 host-suffix,zhuoyi.com,direct
 host-suffix,zhuoyigame.com,direct
 host-suffix,zhuoyigame.site,direct
