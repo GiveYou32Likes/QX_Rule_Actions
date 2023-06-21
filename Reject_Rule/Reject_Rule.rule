@@ -16538,6 +16538,7 @@ host-suffix,client.stats.yinyuetai.com,reject
 host-suffix,client.tahono.com,reject
 host-suffix,client.tenddata.com,reject
 host-suffix,client.tv.uc.cn,reject
+host-suffix,client.video.ucweb.com,reject
 host-suffix,clientengagement.ehpartners.com,reject
 host-suffix,clientgear.com,reject
 host-suffix,clientlog.music.163.com,reject
@@ -16802,6 +16803,7 @@ host-suffix,cms.lv,reject
 host-suffix,cms.opendsp.tanx.com,reject
 host-suffix,cms.quantserve.com,reject
 host-suffix,cms.tanx.com,reject
+host-suffix,cms.ucweb.com,reject
 host-suffix,cms100.xyz,reject
 host-suffix,cmsapi.wifi8.com,reject
 host-suffix,cmshow.gtimg.cn,reject
@@ -28437,6 +28439,7 @@ host-suffix,gizzenaceric.com,reject
 host-suffix,gj.mmstat.com,reject
 host-suffix,gj500.com,reject
 host-suffix,gjapplog.uc.cn,reject
+host-suffix,gjapplog.ucweb.com,reject
 host-suffix,gjctwh.cn,reject
 host-suffix,gjfeblixctsojx.xyz,reject
 host-suffix,gjghy.com,reject
@@ -46240,6 +46243,7 @@ host-suffix,pangle.io,reject
 host-suffix,pangoha.xyz,reject
 host-suffix,pangolin-sdk-toutiao-b.com,reject
 host-suffix,pangolin-sdk-toutiao.com,reject
+host-suffix,pangolin-sdk-toutiao1.com,reject
 host-suffix,pangolin.snssdk.com,reject
 host-suffix,pangrespectfully.com,reject
 host-suffix,pangu.cc,reject
@@ -49449,6 +49453,7 @@ host-suffix,pwj.biqugezw.com,reject
 host-suffix,pwmctl.com,reject
 host-suffix,pwrgrowthapi.com,reject
 host-suffix,pwssuj.com,reject
+host-suffix,px-intl.ucweb.com,reject
 host-suffix,px.adhigh.net,reject
 host-suffix,px.derstandard.at,reject
 host-suffix,px.marchex.io,reject
@@ -49461,6 +49466,7 @@ host-suffix,px.spiceworks.com,reject
 host-suffix,px.srvcs.tumblr.com,reject
 host-suffix,px.staticfiles.at,reject
 host-suffix,px.steelhousemedia.com,reject
+host-suffix,px.ucweb.com,reject
 host-suffix,px.wp.pl,reject
 host-suffix,px3792.com,reject
 host-suffix,pxaction.com,reject
@@ -63709,6 +63715,7 @@ host-suffix,ubygsworlow.com,reject
 host-suffix,ubykct.teufel.ch,reject
 host-suffix,uc-baidu.cc,reject
 host-suffix,uc.haoyunyuan.cc,reject
+host-suffix,uc.ucweb.com,reject
 host-suffix,uc.xiansuper.com,reject
 host-suffix,uc123.com,reject
 host-suffix,uc2.atobo.com.cn,reject
@@ -63737,6 +63744,8 @@ host-suffix,ucoz.com,reject
 host-suffix,ucqihfh.cn,reject
 host-suffix,ucqq.cnsptv.com.cn,reject
 host-suffix,ucrzgcs.cn,reject
+host-suffix,ucsec.ucweb.com,reject
+host-suffix,ucsec1.ucweb.com,reject
 host-suffix,ucsmqq.site,reject
 host-suffix,ucstat.baidu.cn,reject
 host-suffix,ucstat.baidu.com,reject
@@ -63745,7 +63754,6 @@ host-suffix,ucus.ucweb.com,reject
 host-suffix,ucv3kq.com,reject
 host-suffix,ucvscfrtrnbr.xyz,reject
 host-suffix,ucweb.cn,reject
-host-suffix,ucweb.com,reject
 host-suffix,ucxxii.com,reject
 host-suffix,uczzd.com,reject
 host-suffix,uczzd.com.cn,reject
@@ -64341,6 +64349,7 @@ host-suffix,up.cm.ksmobile.com,reject
 host-suffix,up.hiao.com,reject
 host-suffix,up.qingdaonews.com,reject
 host-suffix,up.wps.kingsoft.com,reject
+host-suffix,up1.tj.u2.ucweb.com,reject
 host-suffix,up4.ucweb.com,reject
 host-suffix,up4u.me,reject
 host-suffix,upapi.net,reject
@@ -66879,7 +66888,6 @@ host-suffix,weus2watcab01.blob.core.windows.net,reject
 host-suffix,weus2watcab02.blob.core.windows.net,reject
 host-suffix,wevbgr.vidaxl.it,reject
 host-suffix,wew.dushiwenxue.net,reject
-host-suffix,weworkremotely.com,reject
 host-suffix,weyyae.com,reject
 host-suffix,wezvveogk.com,reject
 host-suffix,wf66l5ylwq.com,reject
@@ -69745,7 +69753,6 @@ host-suffix,yukhj.com,reject
 host-suffix,yukonearshot.com,reject
 host-suffix,yular.cn,reject
 host-suffix,yule.fulevmy.com,reject
-host-suffix,yule.sohu.com,reject
 host-suffix,yule8.net,reject
 host-suffix,yulidianshang.com,reject
 host-suffix,yuliglsd.space,reject

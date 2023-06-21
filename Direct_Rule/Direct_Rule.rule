@@ -6144,7 +6144,6 @@ host-suffix,8090vision.com,direct
 host-suffix,8090xx.com,direct
 host-suffix,8090yx.com,direct
 host-suffix,8090yxs.com,direct
-host-suffix,809803.com,direct
 host-suffix,809926.net,direct
 host-suffix,80baicai.biz,direct
 host-suffix,80bi.com,direct
@@ -8252,7 +8251,6 @@ host-suffix,aiwebsec.com,direct
 host-suffix,aiwei365.net,direct
 host-suffix,aiweibang.com,direct
 host-suffix,aiweline.com,direct
-host-suffix,aiwenwo.net,direct
 host-suffix,aiwenyi.com,direct
 host-suffix,aiworkspace.com,direct
 host-suffix,aiwulao.com,direct
@@ -12491,7 +12489,6 @@ host-suffix,byteeffecttos.com,direct
 host-suffix,bytefae.com,direct
 host-suffix,bytefcdn.com,direct
 host-suffix,bytefcdnrd.com,direct
-host-suffix,bytegecko.com,direct
 host-suffix,bytegeckoext.com,direct
 host-suffix,bytegoofy.com,direct
 host-suffix,bytegslb.com,direct
@@ -18317,6 +18314,7 @@ host-suffix,dazhaopeibang.com,direct
 host-suffix,dazhe5.com,direct
 host-suffix,dazhenzimiao.com,direct
 host-suffix,dazhewa.com,direct
+host-suffix,dazhong.com,direct
 host-suffix,dazhongbanben.com,direct
 host-suffix,dazhonghr.com,direct
 host-suffix,dazhoumzj.com,direct
@@ -19193,6 +19191,7 @@ host-suffix,diycode.cc,direct
 host-suffix,diygogogo.com,direct
 host-suffix,diygw.com,direct
 host-suffix,diyhi.com,direct
+host-suffix,diyiapp.com,direct
 host-suffix,diyicai.com,direct
 host-suffix,diyidan.com,direct
 host-suffix,diyidan.net,direct
@@ -21771,6 +21770,7 @@ host-suffix,excelhome.net,direct
 host-suffix,excelpx.com,direct
 host-suffix,exceltip.net,direct
 host-suffix,exchen.net,direct
+host-suffix,excm.net,direct
 host-suffix,exd.design,direct
 host-suffix,exdoll.com,direct
 host-suffix,exexm.com,direct
@@ -40760,6 +40760,7 @@ host-suffix,mumayi.com,direct
 host-suffix,mumu01.com,direct
 host-suffix,muniao.com,direct
 host-suffix,muomou.com,direct
+host-suffix,mupao.com,direct
 host-suffix,mupceet.com,direct
 host-suffix,mupmstx.com,direct
 host-suffix,murdermysterypa.com,direct
@@ -44718,6 +44719,7 @@ host-suffix,pysmei.com,direct
 host-suffix,pystarter.com,direct
 host-suffix,pytgo.com,direct
 host-suffix,python-china.com,direct
+host-suffix,python100.com,direct
 host-suffix,python51.com,direct
 host-suffix,pythonav.com,direct
 host-suffix,pythonclub.org,direct
@@ -50904,6 +50906,7 @@ host-suffix,starparkshenzhen.com,direct
 host-suffix,starpiao.com,direct
 host-suffix,starrockinvest.com,direct
 host-suffix,starrtc.com,direct
+host-suffix,starrydyn.com,direct
 host-suffix,starrysurvey.com,direct
 host-suffix,stars-one.site,direct
 host-suffix,starschina.com,direct
@@ -60438,6 +60441,7 @@ host-suffix,xitek.com,direct
 host-suffix,xitek.net,direct
 host-suffix,xitie.com,direct
 host-suffix,xitieba.com,direct
+host-suffix,xitieba.net,direct
 host-suffix,xitmi.com,direct
 host-suffix,xitong-tech.com,direct
 host-suffix,xitong110.com,direct
@@ -66826,6 +66830,7 @@ host-suffix,zsh8.com,direct
 host-suffix,zshield.net,direct
 host-suffix,zshl.com,direct
 host-suffix,zshlife.com,direct
+host-suffix,zshtys888.com,direct
 host-suffix,zshuoshao.online,direct
 host-suffix,zsia.org,direct
 host-suffix,zsihuo.com,direct
@@ -72900,6 +72905,7 @@ ip-cidr,203.93.0.0/16,direct
 ip-cidr,203.95.128.0/18,direct
 ip-cidr,203.95.200.0/21,direct
 ip-cidr,203.95.224.0/19,direct
+ip-cidr,203.99.16.0/22,direct
 ip-cidr,203.99.8.0/21,direct
 ip-cidr,203.99.80.0/20,direct
 ip-cidr,204.178.64.0/24,direct
