@@ -6,12 +6,15 @@
 ;host,inspiringaccurate.com,reject
 ;host,track.aso1.net,reject
 ;host-keyword,business-cdn.shouji.sogou.com,reject
+;host-keyword,dat8,reject
+;host-keyword,jads,reject
 ;host-keyword,mmiyue,reject
 ;host-keyword,vidoza,reject
 ;host-keyword,wixsite.com,reject
 ;host-keyword,xn--2qux23c9ziyrq,reject
 ;host-suffix,107iwh.cn:4032,reject
 ;host-suffix,ads.bullionyield.com,reject
+;host-suffix,ai.m.taobao.com,reject
 ;host-suffix,byteimg.com,reject
 ;host-suffix,cc58.oss-cn-beijing.aliyuncs.com,reject
 ;host-suffix,cloudfront.net,reject
@@ -22,6 +25,7 @@
 ;host-suffix,qinhemuye.com:443,reject
 ;host-suffix,streamtape.com,reject
 ;host-suffix,suzihaza.com,reject
+;host-suffix,t.uc.cn,reject
 ;host-suffix,wixstatic.com,reject
 ;host-suffix,www.avple.video,reject
 ;host-suffix,xn--xhq9mt12cf5v.xn--io0a7i:4443,reject
