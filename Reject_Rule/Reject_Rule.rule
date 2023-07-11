@@ -46,6 +46,7 @@ host,ad.51wnl-cq.com,reject
 host,ad.api.moji.com,reject
 host,ad.bn.netease.com,reject
 host,ad.chelaile.net.cn,reject
+host,ad.cyapi.cn,reject
 host,ad.hpplay.cn,reject
 host,ad.k.21cn.com,reject
 host,ad.mobile.youku.com,reject
@@ -370,6 +371,7 @@ host,umessage-online-zb.uc.cn,reject
 host,ups.ksmobile.net,reject
 host,v.uc.cn,reject
 host,v1.log.moji.com,reject
+host,vali.cp31.ott.cibntv.net,reject
 host,vcardsdkservice.vivo.com.cn,reject
 host,vdapprecv.app.cntvwb.cn,reject
 host,voice-service.uc.cn,reject
@@ -74122,6 +74124,7 @@ ip-cidr,115.29.247.48/32,reject
 ip-cidr,116.206.22.7/32,reject
 ip-cidr,116.55.227.242/32,reject
 ip-cidr,117.144.242.32/32,reject
+ip-cidr,117.161.156.227/32,reject
 ip-cidr,117.177.248.17/32,reject
 ip-cidr,117.177.248.41/32,reject
 ip-cidr,117.25.133.209/32,reject
