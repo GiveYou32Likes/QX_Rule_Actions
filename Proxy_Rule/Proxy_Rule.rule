@@ -11917,6 +11917,8 @@ host-suffix,mdn.allizom.net,proxy
 host-suffix,mdn.dev,proxy
 host-suffix,mdn.mozit.cloud,proxy
 host-suffix,mdnkids.com,proxy
+host-suffix,mdnplay.dev,proxy
+host-suffix,mdnyalp.dev,proxy
 host-suffix,mdpi.com,proxy
 host-suffix,me-gay.com,proxy
 host-suffix,me.me,proxy
