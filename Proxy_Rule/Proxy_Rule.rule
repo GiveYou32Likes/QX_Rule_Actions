@@ -20656,7 +20656,6 @@ ip-cidr,182.79.223.238/32,proxy
 ip-cidr,182.79.223.242/32,proxy
 ip-cidr,182.79.223.246/32,proxy
 ip-cidr,182.79.223.250/32,proxy
-ip-cidr,183.131.48.0/20,proxy
 ip-cidr,184.150.14.101/32,proxy
 ip-cidr,184.150.14.103/32,proxy
 ip-cidr,184.150.14.11/32,proxy
